@@ -43,22 +43,22 @@ C.  Add some rooms and bookings prior to displaying them or choosing any other o
 1- Managing rooms and adding them prior to choosing other options.
 
 
-![Screenshot (1)](https://github.com/user-attachments/assets/09dc5173-c026-43f7-ab96-8399c51c0d4c)
+![Adding_room](https://github.com/user-attachments/assets/81dbc170-cd38-4a16-b460-3bbc219f98a5)
 
 2- Checking in and making a booking in an available room.
 
 
-![Screenshot (2)](https://github.com/user-attachments/assets/c7f54893-fa7d-4131-9096-9bfb34332f68)
+![Making_booking](https://github.com/user-attachments/assets/c0ff5a2b-874d-4e1f-9982-d33b0487cd8e)
 
 3- Searching for a particular customer by name.
 
 
-![Screenshot (3)](https://github.com/user-attachments/assets/ed00457a-3e01-425e-8cc1-77e07eb51d21)
+![Searching_customer](https://github.com/user-attachments/assets/94110649-b917-4d3f-a2a9-d0fcbf4e9894)
 
 4- Getting the guest summary report from the hotel management.
 
 
-![Screenshot (4)](https://github.com/user-attachments/assets/f3a11be2-f7aa-432c-8cb0-33a52d43f7c8)
+![Guest_summary](https://github.com/user-attachments/assets/67d84990-7f61-4297-97f2-941ce01c4352)
 
 5- Similarly, other options like check-out can be used in the same above demonstrated manner.
 
