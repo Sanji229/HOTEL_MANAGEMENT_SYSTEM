@@ -65,7 +65,7 @@ C.  Add some rooms and bookings prior to displaying them or choosing any other o
 6- Choose option 7 to exit the program.
 
 ## Submitted to- Ms. Nidhi Goel. 
-## Submitted by- Sanjilka Saxena(15) & Preeti(17) of IT-1. 
+## Submitted by- Sanjilka Saxena(15), Preeti(17), Inder Sharma(30) & Nitin Kumar(25) of IT-1. 
 
 
 
