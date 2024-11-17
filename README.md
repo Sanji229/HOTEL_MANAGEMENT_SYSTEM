@@ -22,10 +22,9 @@ The Hotel Management System is a comprehensive solution designed to manage the o
 
 ## How to Use
 
-1. **Hotel Management**:
+A. **Hotel Management**:
    - Choose options from the menu:
-   - 1. Manage Rooms
-        ### Manage Rooms ###
+     1. Manage Rooms
         1. Add Room
         2. Search Room
         3. Back to Main Menu
@@ -35,8 +34,10 @@ The Hotel Management System is a comprehensive solution designed to manage the o
      5. Check-Out Room
      6. Guest Summary Report
      7. Exit
-2. Now choose options from sub menu if available and fill details accordingly.
-3. Add some rooms and bookings prior to displaying them or choosing any other options.
+
+B.  Now choose options from sub menu if available and fill details accordingly.
+
+C.  Add some rooms and bookings prior to displaying them or choosing any other options.
 
 ## Example Interaction
 1- Managing rooms and adding them prior to choosing other options.
@@ -60,6 +61,7 @@ The Hotel Management System is a comprehensive solution designed to manage the o
 ![Screenshot (4)](https://github.com/user-attachments/assets/f3a11be2-f7aa-432c-8cb0-33a52d43f7c8)
 
 5- Similarly, other options like check-out can be used in the same above demonstrated manner.
+
 6- Choose option 7 to exit the program.
 
 ## Submitted to- Ms. Nidhi Goel. 
